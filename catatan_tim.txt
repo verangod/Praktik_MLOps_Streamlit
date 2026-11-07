@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "# UI Streamlit" 
+=======
+"# Model Random Forest" 
+>>>>>>> fitur=model
